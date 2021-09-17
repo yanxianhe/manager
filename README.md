@@ -1,0 +1,2 @@
+# manager
+Unified management platform
